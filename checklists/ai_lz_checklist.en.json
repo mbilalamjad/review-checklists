@@ -1913,7 +1913,7 @@
       {
         "category": "Governance and Security",
         "subcategory": "Governance",
-        "text": "Adhere to Azure OpenAI or other LLMs terms of use, policies and guidance and allowed use cases.",
+        "text": "Adhere to Azure OpenAI or other LLMs terms of use, policies and guidance and allowed use cases",
         "waf": "Operations",
         "service": "Azure OpenAI",
         "guid": "e29711b1-352b-4eee-879b-588defc4972c",

@@ -1913,7 +1913,7 @@
         {
             "category": "Identity and Access Management",
             "subcategory": "Authentication",
-            "text": "Enforce Microsoft Entra ID Conditional Access policies for any user with rights to Azure environments.",
+            "text": "Enforce Microsoft Entra ID Conditional Access policies for any user with rights to Azure environments",
             "waf": "Security",
             "service": "Microsoft Entra",
             "guid": "2daf1eb6-7084-4e03-8cdf-ee6d64bb4936",

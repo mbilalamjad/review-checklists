@@ -70,7 +70,7 @@
                 "style": "tabs",
                 "links": [
                     {
-                        "id": "6770b737-8fd8-4f5c-b3fe-b1df06b61fa1",
+                        "id": "21260694-ec81-4a05-911c-f927dd6fcc99",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Identity and Access Management",
@@ -79,7 +79,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "0103b6f9-8066-4b2a-a318-1ad97215fe6d",
+                        "id": "8cdf929c-ebe9-4d0d-9dd9-b04c5d3d673d",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "BC and DR",
@@ -88,7 +88,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "6d5116a1-52a8-4261-87e1-e3eb1c0ec4e6",
+                        "id": "f19eb1ac-1e5e-48af-84f2-08edb47b45fd",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Governance and Security",
@@ -97,7 +97,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "d70142b5-6388-4f28-9a2c-797b6f8631a6",
+                        "id": "1bd2429f-4665-463c-8bff-eaba67f3ca41",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Operations",

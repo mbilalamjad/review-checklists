@@ -564,7 +564,7 @@
                 "style": "tabs",
                 "links": [
                     {
-                        "id": "354b9b6e-59a3-45e6-9463-56a240e5c10c",
+                        "id": "4ef56727-a23e-4df5-ae15-1ffbec127b60",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "App Gateway ({Tab0Success:value}/{Tab0Total:value})",
@@ -573,7 +573,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "c66cb736-173f-4650-b55e-6da05af46f48",
+                        "id": "7cf7bc95-f86d-4be1-9c42-845c7fa37388",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Load Balancer ({Tab1Success:value}/{Tab1Total:value})",

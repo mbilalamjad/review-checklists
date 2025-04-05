@@ -594,7 +594,7 @@
                 "style": "tabs",
                 "links": [
                     {
-                        "id": "fbe26027-eba8-425e-b150-1ced57dc9e02",
+                        "id": "cdab6271-121d-43a6-9915-8ba7574b8ea5",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Identity and Access Management ({Tab0Success:value}/{Tab0Total:value})",
@@ -603,7 +603,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "2aec77c2-b2af-4ca5-8587-d77fa9284124",
+                        "id": "84f1312f-cd9f-45de-b41b-5da14e00e791",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "BC and DR ({Tab1Success:value}/{Tab1Total:value})",
@@ -612,7 +612,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "e6f8c299-5a8f-4399-99c6-c989566285ac",
+                        "id": "5006880b-a803-4281-8f53-a8841ba85ddf",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Governance and Security ({Tab2Success:value}/{Tab2Total:value})",
@@ -621,7 +621,7 @@
                         "style": "primary"
                     },
                     {
-                        "id": "0268eaab-be5d-412c-a981-94f249e642d6",
+                        "id": "b2d87cd7-6052-433b-ba08-bd5fdcfc34cb",
                         "cellValue": "VisibleTab",
                         "linkTarget": "parameter",
                         "linkLabel": "Operations ({Tab3Success:value}/{Tab3Total:value})",

@@ -7271,7 +7271,7 @@
             "link": "https://learn.microsoft.com/azure/active-directory/conditional-access/overview",
             "service": "Microsoft Entra",
             "severity": "High",
-            "text": "Enforce Microsoft Entra ID Conditional Access policies for any user with rights to Azure environments.",
+            "text": "Enforce Microsoft Entra ID Conditional Access policies for any user with rights to Azure environments",
             "waf": "Reliability"
         },
         {
